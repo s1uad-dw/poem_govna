@@ -1,0 +1,6 @@
+C:\Users\DE2022\Desktop\poem_govna\Liba\bin\Debug\Liba.dll
+C:\Users\DE2022\Desktop\poem_govna\Liba\bin\Debug\Liba.pdb
+C:\Users\DE2022\Desktop\poem_govna\Liba\obj\Debug\Liba.csproj.AssemblyReference.cache
+C:\Users\DE2022\Desktop\poem_govna\Liba\obj\Debug\Liba.csproj.CoreCompileInputs.cache
+C:\Users\DE2022\Desktop\poem_govna\Liba\obj\Debug\Liba.dll
+C:\Users\DE2022\Desktop\poem_govna\Liba\obj\Debug\Liba.pdb
